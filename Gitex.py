@@ -6,7 +6,7 @@ import requests
 from telegram import Update
 from telegram.ext import ApplicationBuilder,CommandHandler, MessageHandler, filters , ContextTypes
 
-load_dotenv()
+load_dotenv('config/.env')
 tele_token = os.getenv('TELEGRAM_BOT_TOKEN')
 git_token = os.getenv('GITHUB_TOKEN')
 
