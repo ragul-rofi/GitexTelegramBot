@@ -1,4 +1,4 @@
-# Contributing to Gitex Bot
+# Contributing to Gitex Bot 
 
 Thank you for considering contributing to Gitex Bot! We appreciate your interest and welcome contributions from everyone. Please follow the guidelines below to ensure a smooth collaboration.
 

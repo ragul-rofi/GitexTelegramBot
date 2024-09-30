@@ -1,6 +1,6 @@
 # Gitex Bot
 
-Gitex Bot is an intelligent, user-friendly Telegram bot designed to help developers quickly discover GitHub repositories relevant to their project ideas. Simply describe your project or enter a query, and Gitex Bot will search the vast collection of repositories on GitHub and provide you with a curated list of the most relevant results. This automation simplifies the process of finding useful codebases and innovative projects, allowing you to focus on building rather than searching. This project has been developed with persistence and dedication to automate the process of finding useful repositories using both GitHub API and Telegram Bot API.
+Gitex Bot is an intelligent, user-friendly Telegram bot designed to help developers quickly discover GitHub repositories relevant to their project ideas. Simply describe your project or enter a query, and Gitex Bot will search the vast collection of repositories on GitHub and provide you with a curated list of the most relevant results. This automation simplifies the process of finding useful codebases and innovative projects, allowing you to focus on building rather than searching. This project has been developed with persistence and dedication to automate the process of finding useful repositories using both GitHub API and Telegram Bot API. 
 
 ## Features
 
