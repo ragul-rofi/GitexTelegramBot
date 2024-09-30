@@ -55,6 +55,10 @@ The bot is deployed on Render for continuous operation. To deploy your bot on Re
     python Gitex.py
     ```
 
+## Bot Link
+- [Gitex_Bot](https://t.me/RepoGitEX_BOT)
+
+
 ## Usage
 - Start the bot by typing `/start` in your Telegram chat with the bot.
 - Enter your project idea or query, and the bot will return a list of GitHub repositories that match your query.
