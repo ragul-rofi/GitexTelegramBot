@@ -66,13 +66,24 @@ The bot is deployed on Render for continuous operation. To deploy your bot on Re
 
 ## Usage
 
-- Start the bot by typing `/start` in your Telegram chat with the bot.
-- Enter your project idea or query, and the bot will return a list of GitHub repositories that match your query.
+1. **Start the Bot**: Type `/start` in your Telegram chat with Gitex Bot to begin.
+2. **Share Your Idea**: Enter your project idea or query to find relevant repositories.
+3. **Get Results**: The bot will return a list of GitHub repositories that match your request.
+
+---
 
 ## Contributing
 
-Feel free to open issues or submit pull requests for improvements and features.
+Contributions are welcome! Here’s how you can help:
+
+- **Report Issues**: If you find a bug or have a suggestion, open an issue in the repository.
+- **Submit Pull Requests**: Feel free to fork the repository, make improvements, and submit a pull request.
+
+Your help is appreciated!
+
+---
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. You can use, modify, and distribute it freely, as long as you retain the original copyright and license notices.
+
